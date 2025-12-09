@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DIACONESCU_ANDREI_ALEXANDRU_1088</string>
+    <string name="nume">Nume</string>
+    <string name="rating">Rating</string>
+    <string name="puncte">Puncte</string>
+    <string name="adresa">Adresa</string>
+    <string name="adauga">Adauga</string>
+    <string name="acasa">Acasa</string>
+    <string name="citeste_din_json">Citeste din json</string>
+    <string name="citeste_json">Citeste JSON</string>
+    <string name="salveaza_json">Salveaza JSON</string>
+    <string name="preia_date">Preia date</string>
+    <string name="clear_db">Clear DB</string>
+</resources>

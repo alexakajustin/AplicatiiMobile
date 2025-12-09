@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/veziLocatii"
+        android:title="Vezi Locatii" />
+    <item
+        android:id="@+id/veziClasament"
+        android:title="Vezi Clasament" />
+    <item
+        android:id="@+id/ajutor"
+        android:title="Ajutor" />
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback" />
+</menu>
